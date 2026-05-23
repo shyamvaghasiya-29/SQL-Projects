@@ -1,12 +1,12 @@
-🚖 Uber SQL Analysis Project
+# 🚖 Uber SQL Analysis Project
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project demonstrates SQL-based data analysis on an Uber ride-sharing dataset. The analysis focuses on understanding ride patterns, driver performance, passenger behavior, payment trends, fare analysis, and location-based insights using MySQL.
 
 The project contains 50 business-oriented SQL queries ranging from basic data exploration to advanced analytical queries involving joins, subqueries, aggregate functions, grouping, filtering, and performance analysis.
 
-🗄️ Database Schema
+## 🗄️ Database Schema
 
 The project consists of the following tables:
 
@@ -14,7 +14,7 @@ The project consists of the following tables:
 - Rides
 - Passengers
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Analyze ride booking patterns.
 - Evaluate driver performance and earnings.
@@ -24,7 +24,7 @@ The project consists of the following tables:
 - Measure ride duration, distance, and fare trends.
 - Generate actionable business insights using SQL.
 
-🛠️ SQL Concepts Used
+## 🛠️ SQL Concepts Used
 
 - SELECT Statements
 - WHERE Clause
@@ -38,9 +38,9 @@ The project consists of the following tables:
 - Date Functions
 - Conditional Filtering
 
-📊 Key Business Questions Solved
+## 📊 Key Business Questions Solved
 
-🚕 Ride Analysis
+### 🚕 Ride Analysis
 
 - Total number of rides
 - Average ride duration
@@ -58,7 +58,7 @@ The project consists of the following tables:
 - Drivers operating across all locations
 - Total and average driver earnings
 
-👥 Passenger Analysis
+### 👥 Passenger Analysis
 
 - Top spending passengers
 - Most active passengers
@@ -66,7 +66,7 @@ The project consists of the following tables:
 - Passengers using multiple payment methods
 - Passenger spending behavior
 
-📍 Location Analysis
+### 📍 Location Analysis
 
 - Unique pickup locations
 - Most common pickup locations
@@ -74,14 +74,14 @@ The project consists of the following tables:
 - Popular pickup-dropoff combinations
 - Location-wise fare analysis
 
-💳 Payment Analysis
+### 💳 Payment Analysis
 
 - Cash payment analysis
 - Credit card payment analysis
 - Payment method distribution
 - Multi-payment behavior analysis
 
-🚀 Key Skills Demonstrated
+## 🚀 Key Skills Demonstrated
 
 - Data Cleaning and Exploration
 - Business Problem Solving
@@ -90,12 +90,12 @@ The project consists of the following tables:
 - Data Aggregation and Reporting
 - Analytical Thinking
 
-💻 Tools Used
+## 💻 Tools Used
 
 - MySQL
 - DBeaver
 
-📈 Key Insights
+## 📈 Key Insights
 
 - Identified the most popular pickup locations.
 - Analyzed driver earnings, ratings, and ride performance.
@@ -105,8 +105,6 @@ The project consists of the following tables:
 - Discovered popular pickup-dropoff route combinations.
 - Generated actionable business insights using SQL.
 
-👨‍💼 Author
+## 👨‍💼 Author
 
 **Shyam Vaghasiya**
-
-This is a complete, recruiter-friendly README for your GitHub **Uber-SQL-Analysis** project.
